@@ -1,1 +1,4 @@
 # Recommended-Book
+<p>
+  If you're looking for a book that will teach you the basics of programming, look no further than "Data Structures and Algorithms Made Easy" by Sheldon Brown. This book covers everything from data structures to algorithms, and it's perfect for those who want to get started in this exciting field. If you're already a programmer and want to learn how to write code that is both efficient and bug-free, then "Clean Code" by Robert C. Martin is the book for you. This book offers step-by-step instructions on how to improve the design of any existing codebase, regardless of its complexity. Finally, if you want to be a better programmer not only today but for years to come, then "The Pragmatic Programmer" is the guide for you. This book teaches you everything from how to problem-solve efficiently to how to manage time and GET MORE Done.
+</p>
